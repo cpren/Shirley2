@@ -1,0 +1,10 @@
+{
+    "name": "Shirley2",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "c",
+    "executable": "Shirley2.script",
+    "author": "cpren",
+    "minimum_firmware_version": 42
+}
