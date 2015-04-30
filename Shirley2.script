@@ -1,1 +1,10 @@
+#include <iostream>
+#iniclude <cstdlib>
+
+using namespace std;
+
+int main{
 printf("Hello world");
+return 0;
+system "pause";
+}
