@@ -1,1 +1,1 @@
-#include <cstdlib>
+print("hello");
